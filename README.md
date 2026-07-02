@@ -1,1 +1,104 @@
-# Global-Investment-Intelligence
+# Global Investment Intelligence
+
+## Project Overview
+
+This project analyzes global economic growth trends using data from the World Bank's World Development Indicators (WDI). The objective is to identify countries with the strongest economic performance, evaluate economic stability, and assess the impact of major global events such as the COVID-19 pandemic.
+
+The dashboard provides an interactive view of global GDP growth, allowing users to compare countries, identify long-term trends, and discover potential investment opportunities through data-driven analysis.
+
+## Business Problem
+
+Investors, financial institutions, and policymakers need reliable economic indicators to identify attractive investment markets. Economic growth alone does not determine investment potential; stability, resilience during economic crises, and recovery capacity are equally important.
+
+This project answers key business questions that help evaluate the economic performance of countries over time.
+
+## Objectives
+
+* Analyze global GDP growth trends over time.
+* Identify the countries with the highest average economic growth.
+* Measure economic stability using GDP growth volatility.
+* Evaluate the economic impact of the COVID-19 pandemic.
+* Identify the countries with the strongest economic recovery after the pandemic.
+* Generate business insights that support investment decision-making.
+
+## Dataset
+
+Source: World Bank – World Development Indicators (WDI)
+
+Indicator Used:
+
+* GDP Growth (Annual %)
+
+Time Period:
+
+* Historical GDP Growth by Country
+
+## Tools Used
+
+* Microsoft Excel
+* SQL Server
+* Tableau Public
+* Git & GitHub
+
+## Business Questions
+
+1. How has global economic growth evolved over time?
+2. Which countries achieved the highest average GDP growth?
+3. Which countries have the most stable economic growth?
+4. Which countries experienced the largest economic contraction during COVID-19?
+5. Which countries showed the strongest economic recovery in 2021?
+
+## Dashboard Features
+
+* Global GDP Growth Trend
+* Top Growing Economies
+* Economic Stability Ranking
+* COVID-19 Economic Impact
+* Post-Pandemic Recovery Analysis
+
+## Key Insights
+
+### Global Economic Growth
+
+Global GDP growth has experienced significant fluctuations over time. The largest contraction occurred in 2020 (-4.9%) due to the COVID-19 pandemic, followed by a strong recovery of approximately 5.7% in 2021.
+
+### Highest Average GDP Growth
+
+Equatorial Guinea recorded the highest average GDP growth, followed by Turks and Caicos Islands, China, Oman, and Botswana.
+
+### Most Stable Economies
+
+Vietnam demonstrated the lowest economic volatility during the analysis period, followed by Australia, Djibouti, Norway, and the United States.
+
+### COVID-19 Impact
+
+Tourism-dependent economies experienced the largest economic contractions during the pandemic. Turks and Caicos Islands and Maldives were among the most affected countries.
+
+### Strongest Recovery
+
+Maldives experienced the strongest economic rebound in 2021, followed by Turks and Caicos Islands, Libya, Monaco, and Guyana.
+
+## Business Recommendations
+
+* Investors should evaluate both growth and economic stability rather than focusing solely on high GDP growth.
+* Stable economies may offer lower investment risk and more predictable long-term returns.
+* Large post-pandemic growth rates should be interpreted carefully, as many represent recovery from severe economic contractions rather than sustained expansion.
+* Diversifying investments across countries with different economic profiles can help reduce portfolio risk.
+
+## Skills Demonstrated
+
+* Data Cleaning
+* SQL Data Analysis
+* Economic Analysis
+* Business Intelligence
+* KPI Development
+* Data Visualization
+* Tableau Dashboard Design
+* Storytelling with Data
+
+## Future Improvements
+
+* Include inflation, unemployment, and foreign direct investment indicators.
+* Develop an Investment Score model using multiple macroeconomic variables.
+* Add regional comparisons and forecasting models.
+* Expand the dashboard with interactive filters and country profiles.
